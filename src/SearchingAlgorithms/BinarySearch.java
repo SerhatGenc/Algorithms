@@ -3,7 +3,7 @@ package SearchingAlgorithms;
 Formule of search speed O(logN).
 
 Positive sides:
-+very fast
++Very fast
 Negative Sides:
 -Only works on sorted  list
 
