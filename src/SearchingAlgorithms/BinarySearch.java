@@ -1,6 +1,6 @@
 package SearchingAlgorithms;
 /*
-Formule of search speed O(logN).
+Formule of Algorithm speed O(logN).
 
 Positive sides:
 +Very fast
